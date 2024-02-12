@@ -1,0 +1,12 @@
+<suite name = "Suite">
+    <listners>
+    <listner class-name="com.sw.test_pages.TestLIstner">
+
+    </listner>
+    </listners>
+    <test name = "Test">
+        <classes>
+            <class name = "com.sw.test_pages.LoginTest"/>
+        </classes>
+    </test>
+</suite>
